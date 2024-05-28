@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T00:24:59 IST" name="Default suite" finished-at="2024-05-28T00:25:20 IST" duration-ms="21853">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T00:24:59 IST" name="Default test" finished-at="2024-05-28T00:25:20 IST" duration-ms="21853">
+      <class name="SarthakDomain.SubmitOrderTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:SarthakDomain.SubmitOrderTest@302552ec]" started-at="2024-05-28T00:24:59 IST" name="launchApplication" finished-at="2024-05-28T00:25:01 IST" duration-ms="2643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="name()[pri:0, instance:SarthakDomain.SubmitOrderTest@302552ec]" started-at="2024-05-28T00:25:01 IST" name="name" finished-at="2024-05-28T00:25:03 IST" duration-ms="2056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SarthakDomain.SubmitOrderTest@302552ec]" started-at="2024-05-28T00:25:03 IST" name="teardown" finished-at="2024-05-28T00:25:04 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:SarthakDomain.SubmitOrderTest@302552ec]" started-at="2024-05-28T00:25:04 IST" name="launchApplication" finished-at="2024-05-28T00:25:09 IST" duration-ms="5692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder()[pri:0, instance:SarthakDomain.SubmitOrderTest@302552ec]" started-at="2024-05-28T00:25:09 IST" name="submitOrder" finished-at="2024-05-28T00:25:20 IST" duration-ms="11041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SarthakDomain.SubmitOrderTest@302552ec]" started-at="2024-05-28T00:25:20 IST" name="teardown" finished-at="2024-05-28T00:25:20 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SarthakDomain.SubmitOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
